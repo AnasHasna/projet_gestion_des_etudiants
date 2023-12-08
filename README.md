@@ -20,7 +20,8 @@ SQL Server
 Clonez le projet depuis le dépôt Git.
 Assurez-vous d'avoir une connexion réseau pour accéder à la base de données hébergée sur la machine "A".
 Compilez et exécutez l'application sur la machine "B".
-#### Fonctionnalités
+
+### Fonctionnalités
 
 ##### Espace Administrateur:
 
